@@ -202,6 +202,11 @@ class MyModelTrainer(ModelTrainer):
         test_loss /= len(test_data)  # this info is only valid for HPWREN
         acc = correct / total
 
+        print("========================================")
+        print("Loss: " + str(test_loss))
+        print("Acc: " + str(acc))
+        print("========================================")
+
         return test_loss, acc
 
     # not used

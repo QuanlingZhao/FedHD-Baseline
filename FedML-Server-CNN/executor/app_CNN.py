@@ -55,10 +55,10 @@ def add_args(parser):
                         choices=['iid', 'bias', 'noniid'],
                         help='how to partition the dataset on local clients')
 
-    parser.add_argument('--client_num_per_round', type=int, default='8',
+    parser.add_argument('--client_num_per_round', type=int, default=1,
                         help='client_num_per_round')
 
-    parser.add_argument('--client_num_in_total', type=int, default='8',
+    parser.add_argument('--client_num_in_total', type=int, default=1,
                         help='client_num_in_total')
     
     # parser.add_argument('--D', type=int, default=10000,
@@ -140,6 +140,9 @@ def add_args(parser):
     parser.add_argument('--trial', type=int, default=0,
                         help='the current trial number')
 
+    parser.add_argument('--method', type=str, default="fedavg",
+                        help='method')
+
     args = parser.parse_args()
     return args
 
@@ -193,11 +196,15 @@ def register_device():
                           "partition_label" : args.partition_label,
                           "data_size_per_client" : args.data_size_per_client,
                           "momentum" : args.momentum,
+                          "weight_decay": args.weight_decay,
+                          'partition_min_cls' : args.partition_min_cls,
+                          'partition_max_cls': args.partition_max_cls,
                           "client_num_per_round": args.client_num_per_round,
                           "client_num_in_total": args.client_num_in_total,
 
                           "comm_round": args.comm_round,
                           "epochs": args.epochs,
+                          "method": args.method,
 
                           "lr": args.lr,
 

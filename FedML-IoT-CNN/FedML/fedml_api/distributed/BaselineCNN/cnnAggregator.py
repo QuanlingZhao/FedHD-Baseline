@@ -62,8 +62,6 @@ class BaselineCNNAggregator(object):
             self.flag_client_model_uploaded_dict[idx] = False
         return True
 
-
-
     
     def aggregate(self):
         model_list = []
@@ -81,36 +79,13 @@ class BaselineCNNAggregator(object):
                     averaged_params[k] = local_model_params[k] * w
                 else:
                     averaged_params[k] += local_model_params[k] * w
-
-        print("Averaged")
-        return averaged_params
-
-    '''
-    # for local test only
-    def aggregate(self,client_model_list):
-        model_list = []
-        
-        local_sample_number = self.args.data_size_per_client
-        training_num = (self.args.client_num_per_round) * local_sample_number
-        w = local_sample_number / training_num
-        
-        for idx in range(self.worker_num):
-            model_list.append(client_model_list[idx])
-        
-        averaged_params = model_list[0]
-        for k in averaged_params.keys():
-            for i in range(0, len(model_list)):
-                local_model_params = model_list[i]
-                if i == 0:
-                    averaged_params[k] = local_model_params[k] * w
-                else:
-                    averaged_params[k] += local_model_params[k] * w
-        
+                    
         self.set_global_model_params(averaged_params)
 
         print("Averaged")
+        #print(type(averaged_params))
         return averaged_params
-    '''
+
 
 
 
