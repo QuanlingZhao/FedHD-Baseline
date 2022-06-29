@@ -122,13 +122,13 @@ def add_args(parser):
                         choices=['MQTT', 'MPI'],
                         help='communication backend')
 
-    parser.add_argument('--mqtt_host', type=str, default='127.0.0.1',
+    parser.add_argument('--mqtt_host', type=str, default='132.239.17.132',
                         help='host IP in MQTT')
 
     parser.add_argument('--mqtt_port', type=int, default=61613,
                         help='host port in MQTT')
 
-    parser.add_argument('--server_ip', type=str, default='127.0.0.1',
+    parser.add_argument('--server_ip', type=str, default='132.239.17.132',
                         help='server IP in Flask')
 
     parser.add_argument('--server_port', type=int, default=5000,
@@ -192,7 +192,6 @@ def register_device():
                           "partition_secondary" : args.partition_secondary,
                           "partition_label" : args.partition_label,
                           "data_size_per_client" : args.data_size_per_client,
-                          "D" : args.D,
                           "momentum" : args.momentum,
                           "client_num_per_round": args.client_num_per_round,
                           "client_num_in_total": args.client_num_in_total,
@@ -374,4 +373,4 @@ if __name__ == '__main__':
 
     # if run in debug mode, process will be single threaded by default
     #app.run(host="127.0.0.1", port=5000)
-    app.run(host="127.0.0.1", port=5000)
+    app.run(host=args.server_ip, port=args.server_port)
