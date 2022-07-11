@@ -1,0 +1,650 @@
+============================Starting loading fashionmnist==========================#
+=================================fashionmnist loaded===============================#
+Train FashionMNIST
+ * Serving Flask app 'app_CNN' (lazy loading)
+Connection returned with result code:0
+ * Environment: production
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+onSubscribe :1
+   WARNING: This is a development server. Do not use it in a production deployment.
+onSubscribe :2
+   Use a production WSGI server instead.
+onSubscribe :3
+onSubscribe :4
+onSubscribe :5
+onSubscribe :6
+ * Debug mode: off
+onSubscribe :7
+onSubscribe :8
+onSubscribe :9
+onSubscribe :10
+onSubscribe :11
+onSubscribe :12
+onSubscribe :13
+onSubscribe :14
+onSubscribe :15
+onSubscribe :16
+onSubscribe :17
+onSubscribe :18
+onSubscribe :19
+onSubscribe :20
+onSubscribe :21
+onSubscribe :22
+onSubscribe :23
+onSubscribe :24
+onSubscribe :25
+onSubscribe :26
+onSubscribe :27
+onSubscribe :28
+onSubscribe :29
+onSubscribe :30
+{0: False, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: True, 2: False, 3: False, 4: False, 5: False, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: True, 2: False, 3: False, 4: False, 5: True, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: True, 2: True, 3: False, 4: False, 5: True, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: True, 2: True, 3: False, 4: True, 5: True, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+============================Starting loading fashionmnist==========================#
+=================================fashionmnist loaded===============================#
+Train FashionMNIST
+ * Serving Flask app 'app_CNN' (lazy loading)
+Connection returned with result code:0
+ * Environment: production
+0
+   WARNING: This is a development server. Do not use it in a production deployment.
+0
+   Use a production WSGI server instead.
+0
+ * Debug mode: off
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+onSubscribe :1
+onSubscribe :2
+onSubscribe :3
+onSubscribe :4
+onSubscribe :5
+onSubscribe :6
+onSubscribe :7
+onSubscribe :8
+onSubscribe :9
+onSubscribe :10
+onSubscribe :11
+onSubscribe :12
+onSubscribe :13
+onSubscribe :14
+onSubscribe :15
+onSubscribe :16
+onSubscribe :17
+onSubscribe :18
+onSubscribe :19
+onSubscribe :20
+onSubscribe :21
+onSubscribe :22
+onSubscribe :23
+onSubscribe :24
+onSubscribe :25
+onSubscribe :26
+onSubscribe :27
+onSubscribe :28
+onSubscribe :29
+onSubscribe :30
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: False, 29: False}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: False, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  0
+========================================
+Loss: 0.11503194999694824
+Acc: 0.094
+========================================
+size = 31
+Time:  362.7040784358978
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941204
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+json string size = 9941205
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  1
+========================================
+Loss: 0.061262136220932004
+Acc: 0.628
+========================================
+size = 31
+Time:  627.4820387363434
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911728
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+json string size = 9911729
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  2
+========================================
+Loss: 0.03646253129839897
+Acc: 0.692
+========================================
+size = 31
+Time:  953.8788933753967
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878311
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+json string size = 9878312
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: False, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  3
+========================================
+Loss: 0.030305262632668018
+Acc: 0.754
+========================================
+size = 31
+Time:  1284.9076821804047
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861462
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+json string size = 9861463
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  4
+========================================
+Loss: 0.02683223631978035
+Acc: 0.792
+========================================
+size = 31
+Time:  1635.5021812915802
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851015
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+json string size = 9851016
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  5
+========================================
+Loss: 0.024556227862834932
+Acc: 0.816
+========================================
+size = 31
+Time:  1894.881287574768
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842681
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+json string size = 9842682
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: False, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: True, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+Averaged
+Round:  6
+========================================
+Loss: 0.0230079797655344
+Acc: 0.832
+========================================
+size = 31
+Time:  2275.7410974502563
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836210
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+json string size = 9836211
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: False}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: False, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: False, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: False, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: False, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: False, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: False, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: False, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: False, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: False, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: False, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: False, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: False, 3: False, 4: False, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: False, 3: False, 4: True, 5: False, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: False, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: False, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: False, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: False, 26: True, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: False, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: False, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: True, 4: True, 5: True, 6: False, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: False, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
+{0: False, 1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: True, 8: True, 9: True, 10: True, 11: True, 12: True, 13: True, 14: True, 15: True, 16: True, 17: True, 18: True, 19: True, 20: True, 21: True, 22: True, 23: True, 24: True, 25: True, 26: True, 27: True, 28: True, 29: True}
