@@ -1,0 +1,4385 @@
+Invalid MIT-MAGIC-COOKIE-1 keyINFO:root:Namespace(D=10000, backend='MQTT', batch_size=100, client_num_in_total=30, client_num_per_round=30, comm_round=21, data_size_per_client=500, dataset='har', epochs=1, frequency_of_the_test=1, is_preprocessed=True, method='fedsync', momentum=0.9, mqtt_host='132.239.17.132', mqtt_port=61613, partition_alpha=0.5, partition_label='uniform', partition_max_cls=5, partition_method='iid', partition_min_cls=1, partition_secondary=False, rate=0.5, server_ip='132.239.17.132', server_port=5000, weight_decay=0.0005)
+============================Starting loading har==========================#
+INFO:root:load_data. dataset_name = har
+INFO:root:Loading HAR - ../FedML/data/HAR
+=================================har loaded===============================#
+Connection returned with result code:0
+ * Serving Flask app 'app_HD' (lazy loading)
+ * Environment: production
+0
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+onSubscribe :1
+INFO:werkzeug: * Running on http://132.239.17.132:5000/ (Press CTRL+C to quit)
+onSubscribe :2
+onSubscribe :3
+onSubscribe :4
+onSubscribe :5
+onSubscribe :6
+onSubscribe :7
+onSubscribe :8
+onSubscribe :9
+onSubscribe :10
+onSubscribe :11
+onSubscribe :12
+onSubscribe :13
+onSubscribe :14
+onSubscribe :15
+onSubscribe :16
+onSubscribe :17
+onSubscribe :18
+onSubscribe :19
+onSubscribe :20
+onSubscribe :21
+onSubscribe :22
+onSubscribe :23
+onSubscribe :24
+onSubscribe :25
+onSubscribe :26
+onSubscribe :27
+onSubscribe :28
+onSubscribe :29
+onSubscribe :30
+INFO:werkzeug:128.54.20.158 - - [12/Jul/2022 11:24:56] "POST /api/register?device_id=23 HTTP/1.1" 200 -
+INFO:werkzeug:70.95.192.233 - - [12/Jul/2022 11:24:57] "POST /api/register?device_id=24 HTTP/1.1" 200 -
+INFO:werkzeug:70.95.209.134 - - [12/Jul/2022 11:24:58] "POST /api/register?device_id=25 HTTP/1.1" 200 -
+INFO:werkzeug:70.95.26.12 - - [12/Jul/2022 11:24:58] "POST /api/register?device_id=26 HTTP/1.1" 200 -
+INFO:werkzeug:70.95.209.134 - - [12/Jul/2022 11:24:59] "POST /api/register?device_id=27 HTTP/1.1" 200 -
+INFO:werkzeug:70.95.26.12 - - [12/Jul/2022 11:25:00] "POST /api/register?device_id=28 HTTP/1.1" 200 -
+INFO:werkzeug:128.54.23.18 - - [12/Jul/2022 11:25:01] "POST /api/register?device_id=29 HTTP/1.1" 200 -
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = False
+INFO:werkzeug:164.113.66.15 - - [12/Jul/2022 11:25:29] "POST /api/register?device_id=21 HTTP/1.1" 200 -
+INFO:werkzeug:164.113.66.15 - - [12/Jul/2022 11:25:29] "POST /api/register?device_id=5 HTTP/1.1" 200 -
+INFO:werkzeug:164.113.66.15 - - [12/Jul/2022 11:25:29] "POST /api/register?device_id=7 HTTP/1.1" 200 -
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:werkzeug:67.58.53.144 - - [12/Jul/2022 11:25:48] "POST /api/register?device_id=11 HTTP/1.1" 200 -
+INFO:werkzeug:67.58.53.144 - - [12/Jul/2022 11:25:48] "POST /api/register?device_id=9 HTTP/1.1" 200 -
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:werkzeug:128.114.109.79 - - [12/Jul/2022 11:25:54] "POST /api/register?device_id=19 HTTP/1.1" 200 -
+INFO:werkzeug:128.114.109.79 - - [12/Jul/2022 11:25:54] "POST /api/register?device_id=14 HTTP/1.1" 200 -
+INFO:werkzeug:192.5.19.136 - - [12/Jul/2022 11:25:56] "POST /api/register?device_id=4 HTTP/1.1" 200 -
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:werkzeug:192.5.19.136 - - [12/Jul/2022 11:26:04] "POST /api/register?device_id=0 HTTP/1.1" 200 -
+INFO:werkzeug:192.5.19.136 - - [12/Jul/2022 11:26:04] "POST /api/register?device_id=6 HTTP/1.1" 200 -
+INFO:werkzeug:192.5.19.136 - - [12/Jul/2022 11:26:04] "POST /api/register?device_id=15 HTTP/1.1" 200 -
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:werkzeug:192.5.19.136 - - [12/Jul/2022 11:26:20] "POST /api/register?device_id=18 HTTP/1.1" 200 -
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:werkzeug:199.109.80.11 - - [12/Jul/2022 11:26:39] "POST /api/register?device_id=3 HTTP/1.1" 200 -
+INFO:werkzeug:169.236.28.14 - - [12/Jul/2022 11:26:44] "POST /api/register?device_id=22 HTTP/1.1" 200 -
+INFO:werkzeug:169.236.28.14 - - [12/Jul/2022 11:26:45] "POST /api/register?device_id=17 HTTP/1.1" 200 -
+INFO:werkzeug:169.236.28.14 - - [12/Jul/2022 11:26:46] "POST /api/register?device_id=10 HTTP/1.1" 200 -
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:werkzeug:199.109.80.22 - - [12/Jul/2022 11:26:49] "POST /api/register?device_id=16 HTTP/1.1" 200 -
+INFO:werkzeug:199.109.80.22 - - [12/Jul/2022 11:26:49] "POST /api/register?device_id=13 HTTP/1.1" 200 -
+INFO:werkzeug:199.109.80.22 - - [12/Jul/2022 11:26:49] "POST /api/register?device_id=12 HTTP/1.1" 200 -
+INFO:werkzeug:199.109.80.22 - - [12/Jul/2022 11:26:49] "POST /api/register?device_id=8 HTTP/1.1" 200 -
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:werkzeug:192.5.110.71 - - [12/Jul/2022 11:27:53] "POST /api/register?device_id=1 HTTP/1.1" 200 -
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:werkzeug:165.124.33.193 - - [12/Jul/2022 11:28:35] "POST /api/register?device_id=20 HTTP/1.1" 200 -
+INFO:werkzeug:165.124.33.193 - - [12/Jul/2022 11:28:35] "POST /api/register?device_id=2 HTTP/1.1" 200 -
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = True
+Round:  0
+Testing:  0
+/home/xiaofan/anaconda3/envs/fedml/lib/python3.7/site-packages/torch_hd/hdlayers.py:180: UserWarning: The use of `x.T` on tensors of dimension other than 2 to reverse their shape is deprecated and it will throw an error in a future release. Consider `x.mT` to transpose batches of matricesor `x.permute(*torch.arange(x.ndim - 1, -1, -1))` to reverse the dimensions of a tensor. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2318.)
+  norm = norm_encoded[:,None] * norm_class.T
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.0
+size = 31
+Time:  268.1837275028229
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1761112
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1761113
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1761113
+INFO:root:sent
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  1
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.8654986023902893
+size = 31
+Time:  330.43381690979004
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1934611
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1934612
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1934612
+INFO:root:sent
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  2
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.8868367075920105
+size = 31
+Time:  397.73677253723145
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1963574
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1963575
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1963575
+INFO:root:sent
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  3
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9072688817977905
+size = 31
+Time:  466.1372137069702
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1954403
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1954404
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1954404
+INFO:root:sent
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  4
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9177822470664978
+size = 31
+Time:  534.750205039978
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1965032
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1965033
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1965033
+INFO:root:sent
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  5
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9285255074501038
+size = 31
+Time:  603.1008372306824
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1935389
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1935390
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1935390
+INFO:root:sent
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  6
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9314868450164795
+size = 31
+Time:  670.3563702106476
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1966926
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1966927
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1966927
+INFO:root:sent
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  7
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9398632049560547
+size = 31
+Time:  740.3288288116455
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1967097
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1967098
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1967098
+INFO:root:sent
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  8
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9445611834526062
+size = 31
+Time:  808.7390983104706
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1971799
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1971800
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1971800
+INFO:root:sent
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  9
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9467259049415588
+size = 31
+Time:  877.3594563007355
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1969753
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1969754
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1969754
+INFO:root:sent
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  10
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9463316798210144
+size = 31
+Time:  945.8039710521698
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1968168
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1968169
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1968169
+INFO:root:sent
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  11
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9470521211624146
+size = 31
+Time:  1014.2699017524719
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1973642
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1973643
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1973643
+INFO:root:sent
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  12
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9489067792892456
+size = 31
+Time:  1082.8943655490875
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1966882
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1966883
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1966883
+INFO:root:sent
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  13
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9499168395996094
+size = 31
+Time:  1151.1962225437164
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1976765
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1976766
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1976766
+INFO:root:sent
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  14
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9510362148284912
+size = 31
+Time:  1220.1484594345093
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1983976
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1983977
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1983977
+INFO:root:sent
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  15
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9534788727760315
+size = 31
+Time:  1289.1572704315186
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1983759
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1983760
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1983760
+INFO:root:sent
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  16
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9526659250259399
+size = 31
+Time:  1358.021020412445
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1987508
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1987509
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1987509
+INFO:root:sent
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  17
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9528427124023438
+size = 31
+Time:  1427.040209531784
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1998312
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1998313
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1998313
+INFO:root:sent
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  18
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9538528323173523
+size = 31
+Time:  1496.6237905025482
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1998993
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1998994
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1998994
+INFO:root:sent
+INFO:root:add_model. index = 14
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 22
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 21
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 20
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 18
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 16
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 11
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 12
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 15
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 28
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 19
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 17
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 10
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 6
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 29
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 13
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 5
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 9
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 8
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 7
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 27
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 26
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 0
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 2
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 25
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 24
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 23
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 4
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 3
+INFO:root:b_all_received = False
+INFO:root:add_model. index = 1
+INFO:root:b_all_received = True
+Round:  19
+Testing:  0
+Testing:  1
+Testing:  2
+Testing:  3
+Testing:  4
+Testing:  5
+Testing:  6
+Testing:  7
+Testing:  8
+Testing:  9
+Testing:  10
+Testing:  11
+Testing:  12
+Testing:  13
+Testing:  14
+Testing:  15
+Testing:  16
+Testing:  17
+Testing:  18
+Testing:  19
+Testing:  20
+Testing:  21
+Testing:  22
+Testing:  23
+Testing:  24
+Testing:  25
+Testing:  26
+Testing:  27
+Testing:  28
+Testing:  29
+	=> client_id: Server accuracy: 0.9548051357269287
+size = 31
+Time:  1566.1735589504242
+INFO:root:send_message_sync_model_to_client. receive_id = 1
+INFO:root:topic = fedml0_1
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 2
+INFO:root:topic = fedml0_2
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 3
+INFO:root:topic = fedml0_3
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 4
+INFO:root:topic = fedml0_4
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 5
+INFO:root:topic = fedml0_5
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 6
+INFO:root:topic = fedml0_6
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 7
+INFO:root:topic = fedml0_7
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 8
+INFO:root:topic = fedml0_8
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 9
+INFO:root:topic = fedml0_9
+json string size = 1987559
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 10
+INFO:root:topic = fedml0_10
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 11
+INFO:root:topic = fedml0_11
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 12
+INFO:root:topic = fedml0_12
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 13
+INFO:root:topic = fedml0_13
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 14
+INFO:root:topic = fedml0_14
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 15
+INFO:root:topic = fedml0_15
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 16
+INFO:root:topic = fedml0_16
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 17
+INFO:root:topic = fedml0_17
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 18
+INFO:root:topic = fedml0_18
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 19
+INFO:root:topic = fedml0_19
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 20
+INFO:root:topic = fedml0_20
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 21
+INFO:root:topic = fedml0_21
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 22
+INFO:root:topic = fedml0_22
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 23
+INFO:root:topic = fedml0_23
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 24
+INFO:root:topic = fedml0_24
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 25
+INFO:root:topic = fedml0_25
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 26
+INFO:root:topic = fedml0_26
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 27
+INFO:root:topic = fedml0_27
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 28
+INFO:root:topic = fedml0_28
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 29
+INFO:root:topic = fedml0_29
+json string size = 1987560
+INFO:root:sent
+INFO:root:send_message_sync_model_to_client. receive_id = 30
+INFO:root:topic = fedml0_30
+json string size = 1987560
+INFO:root:sent
+
